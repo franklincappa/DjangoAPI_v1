@@ -82,7 +82,7 @@ DATABASES = {
         'PORT': '5432',
         'USER': 'postgres',
         'PASSWORD': 'Red#FSCT$90',
-        'NAME': "django_api"
+        'NAME': "django_api" #database
     }
 }
 
